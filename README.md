@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthick Raja B</h1>
-<h3 align="center">A passionate analyst from India</h3>
+<h3 align="center">An aspiring data analyst from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krb647&label=Profile%20views&color=0e75b6&style=flat" alt="krb647" /> </p>
 
