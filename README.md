@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Pursuing **Data Analytics** and working on **real-world personal projects** to strengthen practical skills.
+- 🌱 Pursuing **Data Analytics** and working on **real-world projects** to strengthen practical skills.
 
 - 📫 How to reach me **krb561247@gmail.com**
 
