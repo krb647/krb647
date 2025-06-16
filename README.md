@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA in Python and Data Science**
+- 🌱 Pursuing **Data Analytics** and working on **real-world personal projects** to strengthen practical skills.
 
 - 📫 How to reach me **krb561247@gmail.com**
 
-- ⚡ Fun fact **is it's all 0's and 1's**
+- ⚡ Fun fact: **My brain occasionally buffers like bad WiFi — but when it loads, the ideas are worth the wait.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
